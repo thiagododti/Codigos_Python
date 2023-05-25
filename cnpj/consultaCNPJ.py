@@ -14,7 +14,7 @@ field_names = ['#', 'razao_social', 'atualizado_em', 'natureza_juridica', 'cnpj'
                'inscricao_estadual', 'ativo', 'estado_ie', 'atualizado_em_ie']
 inscricao = []
 contador = 0
-cnpjs = ["06990590000123"]
+cnpjs = ["cnpj_aqui"]
 
 
 # Função para consultar o CNPJ
